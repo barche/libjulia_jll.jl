@@ -236,3 +236,13 @@ os = "windows"
     [[libjulia.download]]
     sha256 = "8af1d870d717c97cea7433f8bca06a88e2b5aa01dbf911cfe951219660b197c6"
     url = "https://github.com/JuliaBinaryWrappers/libjulia_jll.jl/releases/download/libjulia-v1.5.3+1/libjulia.v1.5.3.x86_64-w64-mingw32-cxx11-julia_version+1.5.3.tar.gz"
+[[libjulia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d6d812c79bb1f845c31c2696ba356ed0f93b3b4"
+libc = "glibc"
+os = "linux"
+
+    [[libjulia.download]]
+    sha256 = "7829884629e59edd8ba9286e60b3bb372b5bc17376de49e77860612c67bcb906"
+    url = "https://github.com/barche/libjulia_jll.jl/releases/download/libjulia-v1.6.0+1/libjulia.v1.6.0.x86_64-linux-gnu-cxx11.tar.gz"
