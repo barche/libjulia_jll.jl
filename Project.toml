@@ -1,6 +1,6 @@
 name = "libjulia_jll"
 uuid = "5ad3ddd2-0711-543a-b040-befd59781bbf"
-version = "1.6.0+1"
+version = "1.6.0+2"
 
 [deps]
 utf8proc_jll = "00992c89-a35c-5347-9984-e6609dacc59a"
