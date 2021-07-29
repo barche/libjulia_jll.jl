@@ -15,31 +15,16 @@ The tarballs for `libjulia_jll.jl` have been built from these sources:
 
 `libjulia_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc}` (`x86_64-linux-gnu-cxx11`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.6.0, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.6.0`)
 
 ## Dependencies
 
 The following JLL packages are required by `libjulia_jll.jl`:
 
-* `GMP_jll)`
-* `LibCURL_jll)`
-* `LibGit2_jll)`
 * `LibOSXUnwind_jll)`
-* `LibSSH2_jll)`
 * `LibUV_jll)`
 * `LibUnwind_jll)`
-* `MPFR_jll)`
-* `MbedTLS_jll)`
-* `Objconv_jll)`
-* `OpenBLAS_jll)`
-* `OpenLibm_jll)`
-* `PCRE2_jll)`
-* `SuiteSparse_jll)`
-* `Zlib_jll)`
-* `dSFMT_jll)`
 * `libLLVM_jll)`
-* `p7zip_jll)`
-* `utf8proc_jll)`
 
 ## Products
 

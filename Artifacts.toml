@@ -8,3 +8,14 @@ os = "linux"
     [[libjulia.download]]
     sha256 = "7829884629e59edd8ba9286e60b3bb372b5bc17376de49e77860612c67bcb906"
     url = "https://github.com/barche/libjulia_jll.jl/releases/download/libjulia-v1.6.0+1/libjulia.v1.6.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[libjulia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4af2c30ae6e243d96b21c2dd59abbcc8903b010c"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[libjulia.download]]
+    sha256 = "1dbfe527477fcbd04d3aea2b09e9368b2bcbe98f8f65d1aba148818ee2e92f8f"
+    url = "https://github.com/barche/libjulia_jll.jl/releases/download/libjulia-v1.6.0+1/libjulia.v1.6.0.x86_64-linux-gnu-cxx11-julia_version+1.6.0.tar.gz"
